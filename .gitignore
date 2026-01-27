@@ -1,0 +1,44 @@
+# Build artifacts
+target/
+*.wasm
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+*.secret
+
+# Logs
+*.log
+logs/
+alert_logs/
+
+# Deployment
+deployments/backups/
+deployments/*.json
+
+# Test artifacts
+test_snapshots/
+contracts/*/test_snapshots/
+*.snap
+
+# Coverage
+coverage/
+*.profraw
+*.profdata
+
+# Node (if using scripts)
+node_modules/
+package-lock.json
+
+# Soroban
+.soroban/
