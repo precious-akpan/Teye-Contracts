@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/Stellar-Teye/Teye-Contracts/compare/v1.2.1...v1.2.2) (2026-02-22)
+
+### Bug Fixes
+
+* **rbac:** correctly persist user roles to storage on initialization and registration ([fbfae85](https://github.com/Stellar-Teye/Teye-Contracts/commit/fbfae859eb167d0f9be98412160a4c7bc3b7945e))
+* **test:** remove corrupted inline unit test module from lib.rs ([2fa262b](https://github.com/Stellar-Teye/Teye-Contracts/commit/2fa262b8d5df8ce3ec0035643dcd894f245915e8))
+
 ## [1.1.0](https://github.com/precious-akpan/Teye-Contracts/compare/v1.0.0...v1.1.0) (2026-02-22)
 
 ### Features
