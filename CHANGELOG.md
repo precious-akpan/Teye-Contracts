@@ -1,3 +1,20 @@
+## [1.2.0](https://github.com/Stellar-Teye/Teye-Contracts/compare/v1.1.0...v1.2.0) (2026-02-22)
+
+### Features
+
+* implement mutation testing and tests coverage for [#27](https://github.com/Stellar-Teye/Teye-Contracts/issues/27) ([ced0105](https://github.com/Stellar-Teye/Teye-Contracts/commit/ced010556c7c24a44e92b3609a3d4bd7c5096b01))
+* **zk:** implement Issue [#43](https://github.com/Stellar-Teye/Teye-Contracts/issues/43) ZK Verifier integration ([eefb197](https://github.com/Stellar-Teye/Teye-Contracts/commit/eefb197f9f256c8788fb912dbafbd4ebadf8078b))
+
+### Bug Fixes
+
+* **ci:** Resolve clippy warning and missing toolchain input in mutation.yml ([d477d70](https://github.com/Stellar-Teye/Teye-Contracts/commit/d477d70c15e682e874f0cfb1951e1c4969e150ff))
+
+## [1.1.0](https://github.com/Stellar-Teye/Teye-Contracts/compare/v1.0.0...v1.1.0) (2026-02-21)
+
+### Features
+
+* implement record versioning and history tracking ([5b6a6ea](https://github.com/Stellar-Teye/Teye-Contracts/commit/5b6a6ea5d2089510641b23e9b9ec8fa1347f0175))
+
 ## 1.0.0 (2026-02-21)
 
 ### Features
